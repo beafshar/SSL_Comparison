@@ -3,7 +3,7 @@
 This project explores semi-supervised learning techniques applied to the imbalanced **Bank Marketing** dataset. It was developed as part of the **Machine Learning** course at the **University of Ottawa** (Winter 2024), and all code is provided in a Jupyter Notebook.
 
 ## 🧠 Project Summary
-- Benchmarked semi-supervised learning models using **XGBoost** and **LightGBM**
+- Benchmarked multiple semi-supervised learning algorithms using models such as **GradientBoosting**, **KNN**, **Decision Tree**, **Random Forest**, **MLP Classifer**, and **SVC**.
 - Improved accuracy from **76% to 88%** through confidence-based pseudo-labeling
 - Applied resampling strategies to reduce class imbalance and skew across different label coverage scenarios
 - Designed a reproducible evaluation pipeline for various labeled/unlabeled data ratios
@@ -12,7 +12,7 @@ This project explores semi-supervised learning techniques applied to the imbalan
 ## 🛠 Technologies Used
 - Python (Jupyter Notebook)
 - NumPy, Pandas
-- XGBoost
+- LAMDA SSL
 - Scikit-learn
 
 ## 📁 Notes
