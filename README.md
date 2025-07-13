@@ -1,4 +1,4 @@
-# SSL_Comparison# Semi-Supervised Learning on Bank Marketing Dataset
+# Semi-Supervised Learning on Bank Marketing Dataset
 
 This project explores semi-supervised learning techniques applied to the imbalanced **Bank Marketing** dataset. It was developed as part of the **Machine Learning** course at the **University of Ottawa** (Winter 2024), and all code is provided in a Jupyter Notebook.
 
