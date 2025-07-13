@@ -16,5 +16,5 @@ This project explores semi-supervised learning techniques applied to the imbalan
 - Scikit-learn
 
 ## 📁 Notes
-- All code and experiments are included in a single Jupyter notebook, and the report of results is provided as a seperate file.
+- All code and experiments are included in a single Jupyter notebook, and the report of results is provided as a separate file.
 - This project was submitted for the Machine Learning course final assignment.
